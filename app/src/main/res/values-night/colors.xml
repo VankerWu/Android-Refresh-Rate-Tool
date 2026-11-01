@@ -1,0 +1,15 @@
+<resources>
+    <color name="bg">#0E1014</color>
+    <color name="panel">#191D24</color>
+    <color name="text_primary">#F4F6FA</color>
+    <color name="text_secondary">#A2ACB8</color>
+    <color name="accent">#77A5FF</color>
+    <color name="accent_text">#10151F</color>
+    <color name="stroke">#2E343F</color>
+    <color name="chip">#282E39</color>
+    <color name="chip_text">#EBEFF7</color>
+    <color name="hero">#1D2A43</color>
+    <color name="hero_border">#32486F</color>
+    <color name="success">#70CCA0</color>
+    <color name="icon_white">#FFFFFF</color>
+</resources>
